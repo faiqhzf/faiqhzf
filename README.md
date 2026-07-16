@@ -15,9 +15,6 @@
 
   </div>
 
-  <img src="assets/pixel-divider.gif" width="50%" alt="divider"/>
-
-
   ## 👾 About Me
 
 ```python
