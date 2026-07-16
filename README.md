@@ -1,138 +1,220 @@
-<div align="center">
+  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:1a1a1a&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20UI/UX%20Designer%20•%20Novelist%20•%20Content%20Creator&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Digital%20Artist&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/faiqhzf">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Generalis+yang+jago+banyak+hal...;Tapi+spesialis+di+bidang+mengkritik+😏;(Serius%2C+nggak+bercanda)" alt="Typing SVG" />
+  <a href="https://github.com/faiqhzf">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Deep+Learning+Enthusiast+%F0%9F%A4%96;Podcast+%26+Thumbnail+Designer+%F0%9F%8E%A8;%22Existence+precedes+essence.%22" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=faiqhzf&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faiqhudzaifah/)
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiqhudzaifah98@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faiqhzf)
+
+  </div>
+
+  <img src="assets/pixel-divider.gif" width="100%" alt="divider"/>
+
+
+  ## 👾 About Me
+
+```python
+class Faiq:
+    def __init__(self):
+        self.role = "Informatics Engineering Student @ STMIK Mardira Indonesia"
+        self.based_in = "Bandung, West Java, Indonesia 🇮🇩"
+        self.enjoys = [
+            "building software",
+            "training models",
+            "drawing",
+            "writing",
+            "making videos"
+        ]
+
+    def currently(self):
+        return [
+            "Learning Deep Learning",
+            "Building portfolio projects",
+            "Trying to become better than yesterday"
+        ]
+
+    def fun_fact(self):
+        return "I probably overthink both code and life."
+
+me = Faiq()
+```
+
+  <div align="center">
+ <a href="https://github.com/faiqhzf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems+%E2%9A%99%EF%B8%8F;Learning+Machine+Learning+%F0%9F%A7%A0;Writing+whenever+inspiration+strikes+%E2%9C%8D%EF%B8%8F;Drawing+when+words+aren%27t+enough+%F0%9F%8E%A8;Curious+about+people%2C+systems+%26+ideas" alt="Typing SVG" />
 </a>
+  </div>
 
-</div>
+  <img src="assets/pixel-divider.gif" width="100%"/>
 
-<br>
+  ## 🛠️ Tech Stack
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+  <div align="center">
 
-### 👋 Halo, aku Faiq
+  **Programming & Frameworks**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,php,laravel,js,ts,react,nextjs,astro,cpp,sql&theme=dark" />
 
-Aku orang yang nggak betah cuma pegang satu skill. Hari ini nulis kode, besok bikin wireframe, lusa nulis bab novel, minggu depan bikin konten — dan di sela-sela semua itu, aku paling jago **mengkritik**. Bukan asal julid, tapi karena aku emang suka membedah sesuatu sampai ke akarnya: kenapa desain ini kurang enak dilihat, kenapa alur cerita ini kurang nendang, kenapa kode ini bisa lebih rapi.
+  **Tools & Infra**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,netlify,postgres,figma&theme=dark" />
 
-**Yang aku kerjakan:**
+  **Data Science / ML**
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-- 💻 **Software Engineering** — dari logic sampai eksekusi
-- 🎨 **UI/UX Design** — mikirin rasa, bukan cuma tampilan
-- ✍️ **Penulis Novel** — cerita adalah cara lain untuk berpikir
-- 🎬 **Content Creator** — dokumentasi proses, bukan cuma hasil
-- 🧐 **Kritikus (serius, ini beneran skill)** — tajam tapi membangun
+  **Design & Multimedia**
+  <br/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white"/>
 
-</td>
-<td width="45%" valign="top" align="center">
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=faiqhzf&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" width="100%"/>
+  <img src="assets/pixel-divider.gif" width="100%"/>
 
-</td>
-</tr>
-</table>
 
-<br>
 
-<div align="center">
+  ## 🏆 Certifications & Training
 
-## 🛠️ Tech & Tools
+  <details open>
+  <summary><b>📁 Government Programs (4)</b></summary>
 
-<img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-Astro-FFD700?style=for-the-badge&logo=astro&logoColor=000000"/>
-<br>
-<img src="https://img.shields.io/badge/-Figma-FFD700?style=for-the-badge&logo=figma&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-Notion-FFD700?style=for-the-badge&logo=notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-Git-FFD700?style=for-the-badge&logo=git&logoColor=000000"/>
-<img src="https://img.shields.io/badge/-GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+  <details open>
+  <summary>📂 Digital Talent Scholarship — Komdigi</summary>
 
-</div>
+  - 📄 [Pengenalan Data Science dan Pemanfaatannya di Berbagai Sektor](certificates/Sertifikat_MUHAMMAD%20FAIQ%20HUDZAIFAH_Pengenalan%20Data%20Science%20dan%20Pemanfaatannya%20di%20Berbagai%20Sektor.pdf)
+  - 📄 [Associate Data Scientist + Python](certificates/Sertifikat_MUHAMMAD%20FAIQ%20HUDZAIFAH_Associate%20Data%20Scientist%20+%20Python%20-%20Nasional.pdf)
+  - 📄 [Data Scientist Supervisor](certificates/Sertifikat_MUHAMMAD%20FAIQ%20HUDZAIFAH_Data%20Scientist%20Supervisor%20-%20Nasional.pdf)
+  - 📄 [Fundamental of Deep Learning](certificates/Sertifikat_MUHAMMAD%20FAIQ%20HUDZAIFAH_Fundamental%20of%20Deep%20Learning%20-%20Nasional.pdf)
+  </details>
 
-<br>
+  </details>
 
-<div align="center">
+  <details>
+  <summary><b>📁 Private Institutions (2)</b></summary>
 
-## 📊 Aktivitas & Statistik
+  - 📄 [National AI Training for Daily Work Productivity](certificates/national-ai-training.pdf)
+  - 📄 [The AI Sustainability Paradox: Balancing Innovation with Environmental Impact](certificates/ai-sustainability-paradox.pdf)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqhzf&theme=dark&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=FFD700" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqhzf&layout=compact&theme=github_dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" width="30%"/>
+  </details>
 
-<br><br>
+  <details>
+  <summary><b>📁 Academic Institutions (1)</b></summary>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faiqhzf&theme=github-compact&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true" width="90%"/>
+  - 📄 [10th International Conference on Business, Economy, Management and Social Studies (10th BEMSS)](certificates/10th-bemss.pdf) — STMIK Mardira Indonesia × Research Synergy
 
-</div>
+  </details>
 
-<br>
+  <img src="assets/pixel-divider.gif" width="100%"/>
 
-<div align="center">
+  ## 🚀 Projects & Portfolio
 
-## 📌 Proyek Unggulan
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-</div>
+  ### 🎮 Tracking Project
+  *Full-Stack Developer · 2025*
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
+  Gamified productivity platform RPG-style leveling, activity heatmap, focus timer, admin dashboard, public-facing pages.
 
-**[Faiq-CV](https://github.com/faiqhzf/Faiq-CV)** 🟣
-Portfolio website untuk lamaran magang sebagai IT Project Manager — menonjolkan analisis sistem, dokumentasi proyek, UI/UX, dan inisiatif transformasi digital.
+  `Elysia.js` `Bun` `PostgreSQL` `Drizzle ORM` `React 18` `Astro v5`
 
-</td>
-<td width="50%">
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/faiqhzf/tracking-project)
+  [![Live Backend](https://img.shields.io/badge/API-Koyeb-121212?style=flat-square)](#)
+  [![Live Frontend](https://img.shields.io/badge/Demo-Netlify-00C7B7?style=flat-square&logo=netlify)](#)
 
-**[portfolio-alexnakamura](https://github.com/faiqhzf/portfolio-alexnakamura)** 🔴
-Website portofolio bertema personal branding, dibangun dengan HTML.
+  </td>
+  <td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+  ### 🕵️ Otentik
+  *AI/ML Engineer · 2026*
 
-**[WebPortofolioTemplate-NeonMint](https://github.com/faiqhzf/WebPortofolioTemplate-NeonMint)** 🟠
-Template portofolio yang SEO-friendly, dibangun pakai Astro.
+  Lightweight CNN (608K params) trained from scratch + transfer learning to detect real vs. AI-generated face images. Fully client-side inference, no backend.
 
-</td>
-<td width="50%">
+  `TensorFlow.js` `CNN` `Computer Vision`
 
-**[Calculator-Java](https://github.com/faiqhzf/Calculator-Java)** / **[TodoList-Java](https://github.com/faiqhzf/TodoList-Java)** 🟡
-Latihan logika & struktur program dengan Java dan Swing.
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/faiqhzf/otentik)
+  [![Live Demo](https://img.shields.io/badge/Try%20it-Browser%20App-FF6F00?style=flat-square&logo=tensorflow)](#)
 
-</td>
-</tr>
-</table>
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
 
-<br>
+  ### 🧾 Employee Management System
+  *Backend Developer · 2026*
 
-<div align="center">
+  REST API (17 endpoints) with role-based auth (HR/Employee), JWT, BCrypt encryption, layered controller-service-repository architecture.
 
-## 🔗 Let's Connect
+  `Spring Boot` `Spring Security` `Spring Data JPA`
 
-<a href="mailto:faiqhudzaifah98@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
-</a>
-<a href="https://www.linkedin.com/in/faiqhudzaifah">
-  <img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
-</a>
-<a href="https://www.youtube.com/@faiqhudzaifah">
-  <img src="https://img.shields.io/badge/-YouTube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=FFD700"/>
-</a>
-<a href="https://orcid.org/0009-0006-2463-4624">
-  <img src="https://img.shields.io/badge/-ORCID-1a1a1a?style=for-the-badge&logo=orcid&logoColor=FFD700"/>
-</a>
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/faiqhzf/manajemen-karyawan)
 
-<br><br>
+  </td>
+  <td width="50%" valign="top">
 
-<i>"Kritik yang jujur itu bentuk perhatian yang paling jarang dikasih."</i>
+  ### 🏫 SMA Pasundan Majalaya — Official Website
+  *Full-Stack Developer · 2025–2026*
 
-<br><br>
+  Rebuilt school website with admin CMS (news, agenda, profile management) + authentication. Live and actively used by the school.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:FFD700&height=100&section=footer" width="100%"/>
+  `Next.js` `Admin CMS` `Auth`
 
-</div>
+  [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/faiqhudzaifah/smapasundanmajalaya)
+
+  </td>
+  </tr>
+  </table>
+
+
+  <img src="assets/blackmirror.gif" width="100%"/>
+
+
+## 🌙 Beyond Code
+
+Things I enjoy when I'm away from the terminal.
+
+**✍️ Writing**
+I occasionally write short stories and random thoughts.
+
+**🎨 Visual Art**
+Mostly digital illustration, Photoshop experiments, and cover artworks.
+
+**🎬 Content**
+Creating videos, editing, and sharing things I learn.
+
+**📚 Books & Ideas**
+Existentialism, psychology, philosophy, and literature — writers I keep coming back to include Camus, Dostoevsky, Kafka, Nietzsche, Stirner, and Cioran. They don't define what I believe, but they often shape the questions I ask while building things.
+
+  <img src="assets/blackmirror.gif" width="100%"/>
+
+  ## 📈 GitHub Stats
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faiqhzf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqhzf&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqhzf&theme=tokyonight&hide_border=true" width="60%"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=faiqhzf&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
+  </div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+  <div align="center">
+  <i>"Existence precedes essence — build the thing before you decide what it means."</i>
+  </div>
+
+  <img src="assets/cat3.gif" width="100%"/>
