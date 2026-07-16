@@ -1,6 +1,6 @@
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Digital%20Artist&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Digital%20Artist&descAlignY=58&descSize=18" width="50%"/>
 
   <a href="https://github.com/faiqhzf">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Deep+Learning+Enthusiast+%F0%9F%A4%96;Podcast+%26+Thumbnail+Designer+%F0%9F%8E%A8;%22Existence+precedes+essence.%22" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
   </div>
 
-  <img src="assets/pixel-divider.gif" width="100%" alt="divider"/>
+  <img src="assets/pixel-divider.gif" width="50%" alt="divider"/>
 
 
   ## 👾 About Me
@@ -50,9 +50,10 @@ me = Faiq()
  <a href="https://github.com/faiqhzf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems+%E2%9A%99%EF%B8%8F;Learning+Machine+Learning+%F0%9F%A7%A0;Writing+whenever+inspiration+strikes+%E2%9C%8D%EF%B8%8F;Drawing+when+words+aren%27t+enough+%F0%9F%8E%A8;Curious+about+people%2C+systems+%26+ideas" alt="Typing SVG" />
 </a>
-  </div>
 
-  <img src="assets/pixel-divider.gif" width="100%"/>
+ <img src="assets/pixel-divider.gif" width="50%"/>
+
+  </div>
 
   ## 🛠️ Tech Stack
 
@@ -79,9 +80,8 @@ me = Faiq()
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white"/>
 
+  <img src="assets/pixel-divider.gif" width="50%"/>
   </div>
-
-  <img src="assets/pixel-divider.gif" width="100%"/>
 
 
 
@@ -115,8 +115,10 @@ me = Faiq()
   - 📄 [10th International Conference on Business, Economy, Management and Social Studies (10th BEMSS)](certificates/10th-bemss.pdf) — STMIK Mardira Indonesia × Research Synergy
 
   </details>
+  <div align="center">
+ <img src="assets/pixel-divider.gif" width="50%"/>
+  </div>
 
-  <img src="assets/pixel-divider.gif" width="100%"/>
 
   ## 🚀 Projects & Portfolio
 
@@ -179,8 +181,9 @@ me = Faiq()
   </table>
 
 
-  <img src="assets/blackmirror.gif" width="100%"/>
-
+  <div align="center">
+  <img src="assets/blackmirror.gif" width="50%"/>
+  </div>
 
 ## 🌙 Beyond Code
 
@@ -198,7 +201,9 @@ Creating videos, editing, and sharing things I learn.
 **📚 Books & Ideas**
 Existentialism, psychology, philosophy, and literature — writers I keep coming back to include Camus, Dostoevsky, Kafka, Nietzsche, Stirner, and Cioran. They don't define what I believe, but they often shape the questions I ask while building things.
 
-  <img src="assets/blackmirror.gif" width="100%"/>
+   <div align="center">
+  <img src="assets/blackmirror.gif" width="50%"/>
+  </div>
 
   ## 📈 GitHub Stats
 
@@ -206,7 +211,7 @@ Existentialism, psychology, philosophy, and literature — writers I keep coming
   <img src="https://github-readme-stats.vercel.app/api?username=faiqhzf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqhzf&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqhzf&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=faiqhzf&theme=tokyonight&hide_border=true" width="60%"/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=faiqhzf&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
   </div>
@@ -217,4 +222,6 @@ Existentialism, psychology, philosophy, and literature — writers I keep coming
   <i>"Existence precedes essence — build the thing before you decide what it means."</i>
   </div>
 
-  <img src="assets/cat3.gif" width="100%"/>
+ <div align="center">
+  <img src="assets/cat3.gif" width="50%"/>
+</div>
