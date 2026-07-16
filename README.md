@@ -1,6 +1,6 @@
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Digital%20Artist&descAlignY=58&descSize=18" width="50%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Muhammad%20Faiq%20Hudzaifah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Digital%20Artist&descAlignY=58&descSize=18" width="100%"/>
 
   <a href="https://github.com/faiqhzf">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Deep+Learning+Enthusiast+%F0%9F%A4%96;Podcast+%26+Thumbnail+Designer+%F0%9F%8E%A8;%22Existence+precedes+essence.%22" alt="Typing SVG" />
